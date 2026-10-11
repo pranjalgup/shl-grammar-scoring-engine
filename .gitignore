@@ -1,0 +1,8 @@
+venv/
+data/Dataset_Final/
+data/*.zip
+logs/
+__pycache__/
+.ipynb_checkpoints/
+data/transcripts.csv
+Grammar_Scoring_Engine.ipynb
